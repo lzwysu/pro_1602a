@@ -1,0 +1,39 @@
+2016-07-07 11:02:12,775 [Thread-2:9180] [blog.views:11] [views:index] [ERROR]- list index out of range
+2016-07-07 11:02:48,742 [Thread-12:10192] [blog.views:11] [views:index] [ERROR]- list index out of range
+2016-07-07 11:03:04,533 [Thread-22:9408] [blog.views:11] [views:index] [ERROR]- list index out of range
+2016-07-07 11:03:30,167 [Thread-28:5488] [blog.views:11] [views:index] [ERROR]- list index out of range
+2016-07-07 11:04:29,877 [Thread-2:9300] [blog.views:12] [views:index] [ERROR]- list index out of range
+2016-07-07 11:04:54,625 [Thread-2:9736] [blog.views:10] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-07 11:25:44,157 [Thread-2:5856] [blog.views:17] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-07 11:26:56,153 [Thread-12:9620] [blog.views:17] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-07 14:56:29,043 [Thread-2:7128] [blog.views:17] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-07 15:00:17,048 [Thread-14:6796] [blog.views:17] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-08 08:35:41,125 [Thread-2:6336] [blog.views:17] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-08 09:46:26,193 [Thread-5:1576] [blog.views:17] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-08 15:24:16,918 [Thread-2:8812] [blog.views:17] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-11 15:28:17,293 [Thread-2:172] [blog.views:18] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-11 16:02:34,483 [Thread-26:8020] [blog.views:18] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-11 16:04:41,933 [Thread-32:8688] [blog.views:18] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-11 16:04:58,311 [Thread-38:7320] [blog.views:18] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-11 16:06:40,648 [Thread-48:8460] [blog.views:18] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-11 16:06:57,559 [Thread-54:8832] [blog.views:18] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-11 16:07:17,640 [Thread-60:5520] [blog.views:18] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-12 09:51:29,019 [Thread-2:5632] [blog.views:18] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-12 09:57:59,180 [Thread-2:7684] [blog.views:18] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-12 09:58:40,532 [Thread-2:3160] [blog.views:22] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-12 09:58:48,140 [Thread-12:7400] [blog.views:22] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-12 09:58:49,191 [Thread-13:7972] [blog.views:22] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-12 09:59:03,073 [Thread-14:1044] [blog.views:22] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-12 09:59:11,921 [Thread-24:7740] [blog.views:22] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-12 09:59:12,882 [Thread-34:6740] [blog.views:22] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-12 10:00:26,328 [Thread-44:6332] [blog.views:22] [views:index] [ERROR]- [Errno 2] No such file or directory: 'test.txt'
+2016-07-14 15:03:09,460 [Thread-2:6580] [blog.views:105] [views:article] [ERROR]- list index out of range
+2016-07-14 15:03:18,773 [Thread-8:8224] [blog.views:105] [views:article] [ERROR]- list index out of range
+2016-07-14 15:34:59,026 [Thread-2:7416] [blog.views:110] [views:article] [ERROR]- 'Comment' object has no attribute 'chrild'
+2016-07-14 15:35:10,201 [Thread-9:8728] [blog.views:110] [views:article] [ERROR]- 'Comment' object has no attribute 'chrild'
+2016-07-14 15:37:47,470 [Thread-2:9012] [blog.views:111] [views:article] [ERROR]- 'Comment' object has no attribute 'chrild'
+2016-07-16 10:51:10,759 [Thread-3:6536] [blog.views:117] [views:article] [ERROR]- Article matching query does not exist.
+2016-07-18 10:14:07,671 [Thread-7:6740] [blog.views:117] [views:article] [ERROR]- Article matching query does not exist.
+2016-07-18 10:14:56,226 [Thread-9:1220] [blog.views:117] [views:article] [ERROR]- Article matching query does not exist.
+2016-07-18 10:16:39,338 [Thread-2:2620] [blog.views:117] [views:article] [ERROR]- Article matching query does not exist.
+2016-07-18 10:16:48,868 [Thread-4:540] [blog.views:117] [views:article] [ERROR]- Article matching query does not exist.
